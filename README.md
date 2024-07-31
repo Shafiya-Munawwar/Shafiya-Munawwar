@@ -7,12 +7,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Besides coding, I love reading science fiction novels and experimenting with new recipes in the kitchen. I believe in continuous learning and enjoy taking on new challenges both in my professional and personal life.
 
----
-
-Shafiya Munawwar 
-Following Higher National Diploma in Information Technology at Sri Lanka Institute of Advanced Technological Education, Advanced Technological Institute Kandy.
-
-
 <!---
 Shafiya-Munawwar/Shafiya-Munawwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
